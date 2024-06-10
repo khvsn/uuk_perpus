@@ -57,6 +57,7 @@ $result_peminjaman = $conn->query($sql_peminjaman);
                 <input type="number" class="form-control" id="denda" name="denda">
             </div>
             <button type="submit" class="btn btn-primary">Tambah Pengembalian</button>
+            <a href="buku.php" class="btn btn-danger">Kembali</a>
         </form>
     </div>
 </body>

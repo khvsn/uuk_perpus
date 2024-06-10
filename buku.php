@@ -22,6 +22,7 @@ $result = $conn->query($sql);
     <div class="container">
         <h2>Manajemen Buku</h2>
         <a href="tambah_buku.php" class="btn btn-primary">Tambah Buku</a>
+        <a href="index.php" class="btn btn-danger">Kembali</a>
         <table class="table table-bordered mt-3">
             <thead>
                 <tr>

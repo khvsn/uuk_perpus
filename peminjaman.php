@@ -24,6 +24,7 @@ $result = $conn->query($sql);
     <div class="container">
         <h2>Manajemen Peminjaman</h2>
         <a href="tambah_peminjaman.php" class="btn btn-primary">Tambah Peminjaman</a>
+        <a href="index.php" class="btn btn-danger">Kembali</a>
         <table class="table table-bordered mt-3">
             <thead>
                 <tr>

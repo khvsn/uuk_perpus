@@ -60,7 +60,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <input type="number" class="form-control" id="jumlah" name="jumlah" required>
             </div>
             <button type="submit" class="btn btn-primary">Tambah Buku</button>
-            <a href="buku.php" class="btn btn-secondary">Kembali</a>
+            <a href="buku.php" class="btn btn-danger">Kembali</a>
         </form>
     </div>
 </body>

@@ -56,6 +56,7 @@ $result_pengguna = $conn->query($sql_pengguna);
                 </select>
             </div>
             <button type="submit" class="btn btn-primary">Tambah Peminjaman</button>
+            <a href="buku.php" class="btn btn-danger">Kembali</a>
         </form>
     </div>
 </body>
